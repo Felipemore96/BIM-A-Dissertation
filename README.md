@@ -1,4 +1,4 @@
-# AR-enhanced BIM for Facility Management: Felipe Moreira's BIM A+ European Master Thesis
+# Felipe Moreira's BIM A+ European Master Thesis: AR-enhanced BIM for Facility Management
 
 ## Overview
 This project implements an Augmented Reality (AR)-enhanced collaborative environment for Facility Management (FM), supported by OpenBIM principles. The application uses WebXR, Three.js, and IFC.js to create a web-based, open-source AR platform designed to integrate BIM (Building Information Modelling) data into AR environments. It facilitates real-time access to BIM data, enabling productivity gains, better decision-making, and reduced errors during facility management operations.
